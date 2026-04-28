@@ -21,6 +21,12 @@ const Navbar = () => {
                     <Link href="/career">
                         <li>Career</li>
                     </Link>
+                    <Link href="/privacy-policy">
+                        <li>Privacy Policy</li>
+                    </Link>
+                    <Link href="/terms-of-use">
+                        <li>Terms of Use</li>
+                    </Link>
                 </ul>
             </div>
             <div className="flex items-center justify-center gap-2">

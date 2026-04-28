@@ -16,7 +16,7 @@ const NewsCard = ({ getData }) => {
                     <div className='bg-[#F3F3F3] m-1 flex items-center justify-between text-center'>
                         <div className='flex items-center gap-4'>
                             <div className='text-[50px]'>
-                                <Image src={author.img} height={50} width={50} alt={author.name} />
+                                <Image src={author.img} height={50} width={50} alt={'author.name'} />
                             </div>
                             <div className='text-left'>
                                 <h1 className='text-1xl font-bold'>{author.name} </h1>
