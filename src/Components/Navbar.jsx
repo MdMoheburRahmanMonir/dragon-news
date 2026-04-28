@@ -22,10 +22,10 @@ const Navbar = () => {
                         <li>Career</li>
                     </Link>
                     <Link href="/privacy-policy">
-                        <li>Privacy Policy</li>
+                        <li>PrivacyPolicy</li>
                     </Link>
                     <Link href="/terms-of-use">
-                        <li>Terms of Use</li>
+                        <li>TermsOfUse</li>
                     </Link>
                 </ul>
             </div>
